@@ -11,7 +11,11 @@ import Foundation
 let noemie = Personne( nom: "Depré",prenom: "Noémie", sexe :"f", age: 19, adresse: "Charleroi")
 let robin = Personne( nom: "Van Lierde",prenom: "Robin", sexe :"m", age: 21, adresse: "Bruxelles")
 let matthieu = Personne( nom: "Fontaine",prenom: "Mat", sexe :"m", age: 21, adresse: "Bruxelles")
+<<<<<<< HEAD
 
+=======
+let guillaume = Personne( nom: "Paillot", prenom: "Guillaume", sexe: "inconnu", age:"jeune", adresse: "indetermine") 
+>>>>>>> origin/master
 william.affiche()
 
 noemie.affiche()
