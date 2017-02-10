@@ -11,7 +11,8 @@ import Foundation
 let noemie = Personne( nom: "Depré",prenom: "Noémie", sexe :"f", age: 19, adresse: "Charleroi")
 let robin = Personne( nom: "Van Lierde",prenom: "Robin", sexe :"m", age: 21, adresse: "Bruxelles")
 let matthieu = Personne( nom: "Fontaine",prenom: "Mat", sexe :"m", age: 21, adresse: "Bruxelles")
-fetr
+let martin = Personne( nom: "Guillaumie",prenom: "Mart", sexe :"m", age: 21, adresse: "Bruxelles")
+
 william.affiche()
 
 noemie.affiche()
